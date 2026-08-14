@@ -100,3 +100,23 @@ The App reviews supported committed files and reports objective configuration/re
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 ECZ-ID publishes evidence for review. It does not certify an agent as safe or replace the relying party's own policy.
+
+---
+
+## Use ECZ-ID inside GitHub
+
+Two GitHub Apps serve different review questions:
+
+### ECZ-ID Agent Trust
+
+Use this when the primary question is whether supported committed agent identity, operator, credential, API and evidence references are internally reviewable.
+
+[Install ECZ-ID Agent Trust](https://github.com/marketplace/ecz-id-agent-trust)
+
+### ECZ-ID MCP & Agent Check
+
+Use this for broader supported MCP/agent repository configuration and change review.
+
+[Install ECZ-ID MCP & Agent Check](https://github.com/marketplace/ecz-id-mcp-agent-check)
+
+The Apps complement the local VS Code extensions; they do not replace runtime policy or make global safety decisions.
