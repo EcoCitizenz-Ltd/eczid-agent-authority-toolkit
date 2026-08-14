@@ -1,5 +1,7 @@
 # ECZ-ID Agent Authority Toolkit
 
+![ECZ-ID Agent Authority Toolkit authority and reachability visual](https://raw.githubusercontent.com/EcoCitizenz-Ltd/.github/main/assets/repository-visuals/eczid-agent-authority-toolkit.jpg)
+
 ## See what your AI agent can reach before you let it act.
 
 Free, practical resources for reviewing AI agent authority, connected tools, MCP relationships, credential-shaped surfaces and change.
@@ -95,8 +97,7 @@ The App reviews supported committed files and reports objective configuration/re
 
 ## Public operator proof
 
-**ECZ-ID VERIFIED - ECZ-GB-RBS1NW**
-
+**ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
 [View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
 
 ECZ-ID publishes evidence for review. It does not certify an agent as safe or replace the relying party's own policy.
