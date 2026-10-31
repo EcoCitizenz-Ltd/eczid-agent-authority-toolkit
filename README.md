@@ -14,7 +14,7 @@ Free, practical resources for reviewing AI agent authority, connected tools, MCP
 
 [Download the free MCP & AI Agent Trust Preflight](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=preflight)
 
-[Explore Agent Trust Pro](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=pro)
+[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=kya-authority)
 
 [Get MCP + Agent Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=bundle)
 
@@ -68,9 +68,9 @@ Community provides practical visibility into supported agent configuration, decl
 
 ---
 
-## Agent Trust Pro
+## KYA Authority
 
-For developers who need deeper authority analysis, Pro adds capabilities including:
+The Agent Passport remains the free core identity. **KYA Authority** is the optional paid operating layer for developers who need deeper authority analysis and supported operating controls, including:
 
 - Authority Graph
 - reachability analysis
@@ -81,7 +81,9 @@ For developers who need deeper authority analysis, Pro adds capabilities includi
 - reciprocal Agent-to-MCP visibility
 - remediation and custom policy where supported
 
-[Explore Agent Trust Pro](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-pro)
+Payment does not make an agent safe, approved, certified or compliant, and it does not change the meaning of public evidence.
+
+[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-kya-authority)
 
 ---
 
