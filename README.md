@@ -100,7 +100,7 @@ The App reviews supported committed files and reports objective configuration/re
 ## Public operator proof
 
 **ECZ-ID public identity evidence - ECZ-GB-RBS1NW**
-[View current public identity and evidence](https://resolver.ecocitizenz.org/passport/ECZ-GB-RBS1NW)
+[View current public identity and evidence](https://resolver.ecocitizenz.org/p/ECZ-GB-RBS1NW)
 
 ECZ-ID publishes evidence for review. It does not certify an agent as safe or replace the relying party's own policy.
 
