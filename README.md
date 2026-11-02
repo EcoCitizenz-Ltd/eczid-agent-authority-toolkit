@@ -12,11 +12,11 @@ Free, practical resources for reviewing AI agent authority, connected tools, MCP
 
 [Install the free ECZ-ID Agent Trust GitHub App](https://github.com/marketplace/ecz-id-agent-trust)
 
-[Download the free MCP & AI Agent Trust Preflight](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=preflight)
+[Download the free MCP & AI Agent Trust Preflight](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=preflight&ecz_source=github&ecz_surface=eczid-agent-authority-toolkit)
 
-[Get Agent Trust Pro / Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=agent-trust-pro)
+[Get Agent Trust Pro / Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=agent-trust-pro&ecz_source=github&ecz_surface=eczid-agent-authority-toolkit)
 
-[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=kya-authority)
+[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=kya-authority&ecz_source=github&ecz_surface=eczid-agent-authority-toolkit)
 
 ---
 
@@ -85,7 +85,7 @@ The Agent Passport remains the free core identity. Community and the free Agent 
 
 Agent Trust Pro does not create or replace the Agent Passport and does not issue canonical Resolver proof. **Developer Trust Pro Bundle** unlocks both Agent Trust Pro and MCP Trust Pro.
 
-[Get Agent Trust Pro / Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-agent-trust-pro)
+[Get Agent Trust Pro / Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-agent-trust-pro&ecz_source=github&ecz_surface=eczid-agent-authority-toolkit)
 
 ---
 
@@ -95,7 +95,7 @@ Agent Trust Pro does not create or replace the Agent Passport and does not issue
 
 Use KYA Authority when the organisational need is broader than local developer inspection and controls. Buying KYA Authority does not redefine Agent Trust Pro, and buying Agent Trust Pro does not create KYA Authority.
 
-[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-kya-authority)
+[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-kya-authority&ecz_source=github&ecz_surface=eczid-agent-authority-toolkit)
 
 Payment does not make an agent safe, approved, certified or compliant, and it does not change the meaning of public evidence.
 
