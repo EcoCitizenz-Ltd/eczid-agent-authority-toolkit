@@ -14,9 +14,9 @@ Free, practical resources for reviewing AI agent authority, connected tools, MCP
 
 [Download the free MCP & AI Agent Trust Preflight](https://developers.ecocitizenz.com/downloads/eczid-mcp-agent-trust-preflight.pdf?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=preflight)
 
-[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=kya-authority)
+[Get Agent Trust Pro / Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=agent-trust-pro)
 
-[Get MCP + Agent Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=bundle)
+[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=kya-authority)
 
 ---
 
@@ -64,13 +64,15 @@ Free and local-first.
 
 Community provides practical visibility into supported agent configuration, declared capabilities, permissions, dependencies, change and Resolver/operator references.
 
+The Agent Passport remains the free core identity. Community and the free Agent Passport do not require Agent Trust Pro, KYA Authority or any other paid product.
+
 [Install Agent Trust Community](https://marketplace.visualstudio.com/items?itemName=ecocitizenz.eczid-ai-agents)
 
 ---
 
-## KYA Authority
+## Agent Trust Pro
 
-The Agent Passport remains the free core identity. **KYA Authority** is the optional paid operating layer for developers who need deeper authority analysis and supported operating controls, including:
+**Agent Trust Pro** is the optional paid local Developer Trust software layer for deeper authority analysis and reviewable local controls, including:
 
 - Authority Graph
 - reachability analysis
@@ -79,11 +81,38 @@ The Agent Passport remains the free core identity. **KYA Authority** is the opti
 - credential key-name exposure analysis
 - external action review
 - reciprocal Agent-to-MCP visibility
-- remediation and custom policy where supported
+- remediation and local policy where supported
+
+Agent Trust Pro does not create or replace the Agent Passport and does not issue canonical Resolver proof. **Developer Trust Pro Bundle** unlocks both Agent Trust Pro and MCP Trust Pro.
+
+[Get Agent Trust Pro / Developer Trust](https://developers.ecocitizenz.com/developer-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-agent-trust-pro)
+
+---
+
+## Separate organisational product: KYA Authority
+
+**KYA Authority is separate from Agent Trust Pro.** It is a higher-level organisational agent-governance / authority product and must not be presented as the name of the `AGENT_TRUST_PRO` software entitlement.
+
+Use KYA Authority when the organisational need is broader than local developer inspection and controls. Buying KYA Authority does not redefine Agent Trust Pro, and buying Agent Trust Pro does not create KYA Authority.
+
+[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-kya-authority)
 
 Payment does not make an agent safe, approved, certified or compliant, and it does not change the meaning of public evidence.
 
-[Explore KYA Authority](https://developers.ecocitizenz.com/agent-trust?utm_source=github&utm_medium=repository&utm_campaign=agent-authority-toolkit&utm_content=get-kya-authority)
+---
+
+## Product boundary
+
+| Layer | Product / capability |
+|---|---|
+| Free local review | Agent Trust Community |
+| Free durable identity | Agent Passport |
+| Optional paid local developer software | Agent Trust Pro |
+| Optional paid developer bundle | Developer Trust Pro Bundle — Agent Trust Pro + MCP Trust Pro |
+| Separate higher-level organisational product | KYA Authority |
+| Public proof | ECZ-ID Resolver |
+
+These layers may work together, but they are not aliases for one another.
 
 ---
 
